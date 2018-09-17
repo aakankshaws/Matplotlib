@@ -1,2 +1,3 @@
 # Matplotlib
-matplotlib concepts and exercises
+matplotlib concepts and exercises from udemy and other resources
+
